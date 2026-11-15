@@ -1,5 +1,5 @@
 {
   "name": "eva-virtual-theme",
   "owner": { "name": "tp-job" },
-  "plugins": [{ "name": "clone-eva", "source": "./", "description": "A flat dark look modelled on the Eva Dark VS Code theme." }]
+  "plugins": [{ "name": "eva-virtual-theme", "source": "./", "description": "A flat dark look modelled on the Eva Dark VS Code theme." }]
 }
