@@ -3,6 +3,10 @@
 A Claude Code mod named `clone-eva`: a flat dark look modelled on the Eva Dark VS Code theme.
 Drawn by the Claude desktop and mobile apps only; the terminal and editors draw no theme.
 
+## Screenshot
+
+![clone-eva in the Claude desktop app](docs/screenshot.png)
+
 ## Install
 
 At the prompt of a terminal session:
