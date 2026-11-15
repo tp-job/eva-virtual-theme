@@ -1,5 +1,10 @@
 {
   "name": "eva-virtual-theme",
-  "version": "0.1.0",
-  "description": "A dark look modelled on the Eva Dark VS Code theme, toggled with /clone-eva on and /clone-eva off."
+  "version": "0.2.0",
+  "description": "A flat dark look for the Claude desktop and mobile apps, modelled on the Eva Dark VS Code theme. Toggle it with /clone-eva on and /clone-eva off.",
+  "author": { "name": "tp-job", "url": "https://github.com/tp-job" },
+  "homepage": "https://github.com/tp-job/eva-virtual-theme",
+  "repository": "https://github.com/tp-job/eva-virtual-theme",
+  "license": "MIT",
+  "keywords": ["theme", "dark", "eva", "eva-dark", "vscode"]
 }

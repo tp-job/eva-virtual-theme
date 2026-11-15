@@ -1,5 +1,15 @@
 {
   "name": "eva-virtual-theme",
-  "owner": { "name": "tp-job" },
-  "plugins": [{ "name": "eva-virtual-theme", "source": "./", "description": "A flat dark look modelled on the Eva Dark VS Code theme." }]
+  "description": "Claude Code mods by tp-job: the Eva Dark look.",
+  "owner": { "name": "tp-job", "url": "https://github.com/tp-job" },
+  "plugins": [
+    {
+      "name": "eva-virtual-theme",
+      "source": "./",
+      "description": "A flat dark look for the Claude desktop and mobile apps, modelled on the Eva Dark VS Code theme.",
+      "version": "0.2.0",
+      "license": "MIT",
+      "keywords": ["theme", "dark", "eva", "eva-dark", "vscode"]
+    }
+  ]
 }
